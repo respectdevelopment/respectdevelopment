@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F70000&background=FF20DA00&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+we+are+Respect+Development.;Hola%2C+somos+Respect+Development.;Salve%2C+siamo+Respect+Development.;Ahoj%2C+my+jsme+Respect+Development.;Merhaba%2C+biz+Respect+Development.;Halo%2C+kami+adalah+Respect+Development.;Bun%C4%83+ziua%2C+noi+suntem+Respect+Development.;Hej%2C+vi+%C3%A4r+Respect+Development.;Hei%2C+olemme+Respect+Development." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=FF20DA00&center=true&vCenter=true&random=true&width=435&lines=Ahoj%2C+my+jsme+Respect+Development.;Hej%2C+vi+er+Respect+Development.;Tere%2C+me+oleme+Respect+Development.;Hei%2C+olemme+Respect+Development.;Bonjour%2C+nous+sommes+Respect+Development.;Hai%2C+kami+adalah+Respect+Development.;Salve%2C+siamo+Respect+Development.;Sveiki%2C+m%C4%93s+esam+Respect+Development.;%C3%9Cdv%2C+mi+vagyunk+a+Respect+Development.;Hallo%2C+wir+sind+von+Respect+Development.;Hallo%2C+wij+zijn+Respect+Development.;Cze%C5%9B%C4%87%2C+jeste%C5%9Bmy+Respect+Development.;Bun%C4%83%2C+noi+suntem+Respect+Development.;Pozdravljeni%2C+smo+podjetje+Respect+Development.;Hola%2C+somos+Respect+Development.;Hej%2C+vi+heter+Respect+Development.;Merhaba%2C+biz+Respect+Development." alt="Typing SVG" /></a>
 </div>
 
 ###
