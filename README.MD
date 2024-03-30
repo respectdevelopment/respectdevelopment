@@ -9,6 +9,7 @@
 <div align="center">
   <a href="https://discord.respectdevelopment.eu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+<img src="https://komarev.com/ghpvc/?username=respectdevelopment&&style=flat-square" align="center" />
   </a>
   <a href="https://www.youtube.com/@RespectDevelopment" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
