@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FF20DA00&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+we+are+Respect+Development.;Hola%2C+somos+Respect+Development.;Salve%2C+siamo+Respect+Development.;Ahoj%2C+my+jsme+Respect+Development.;Merhaba%2C+biz+Respect+Development.;Halo%2C+kami+adalah+Respect+Development.;Bun%C4%83+ziua%2C+noi+suntem+Respect+Development.;Hej%2C+vi+%C3%A4r+Respect+Development.;Hei%2C+olemme+Respect+Development." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F70000&background=FF20DA00&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+we+are+Respect+Development.;Hola%2C+somos+Respect+Development.;Salve%2C+siamo+Respect+Development.;Ahoj%2C+my+jsme+Respect+Development.;Merhaba%2C+biz+Respect+Development.;Halo%2C+kami+adalah+Respect+Development.;Bun%C4%83+ziua%2C+noi+suntem+Respect+Development.;Hej%2C+vi+%C3%A4r+Respect+Development.;Hei%2C+olemme+Respect+Development." alt="Typing SVG" /></a>
 </div>
 
 ###
